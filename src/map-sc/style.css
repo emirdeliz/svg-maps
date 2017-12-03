@@ -8,16 +8,3 @@ body {
 body, html {
   height: 100%;
 }
-
-.shape {
-  height: 500px;
-  width: 800px;
-  background-color: #1BA68E;
-}
-
-.shape > path {
-  fill: #555;
-  stroke: #555;
-  stroke-width: 0.1;
-  stroke-linejoin: round;
-}
